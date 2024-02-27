@@ -1,0 +1,11 @@
+.carDiv{
+    margin: 15px;
+    border: 1px sloid lightgray;
+    border: 1px solid lightgray;
+    padding: 9px;
+    border-radius: 8px;
+    box-shadow: 4px 5px 10px;
+}
+.car{
+    width: 300px;
+}
